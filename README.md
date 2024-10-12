@@ -1,3 +1,4 @@
+[![An image of @sparshvarun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sparshvarun)](https://holopin.io/@sparshvarun)
 <h1 align="center">Hi 👋, I'm Sparsh Varun</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
