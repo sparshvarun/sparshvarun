@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/varunsparsh" target="blank"><img src="https://img.shields.io/twitter/follow/varunsparsh?logo=twitter&style=for-the-badge" alt="varunsparsh" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development(JAVA)**
+- 🌱 I’m currently learning **FULLSTACK(JAVA)**
 
 - 📫 How to reach me **varunsparsh53@gmail.com**
 
