@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/varunsparsh" target="blank"><img src="https://img.shields.io/twitter/follow/varunsparsh?logo=twitter&style=for-the-badge" alt="varunsparsh" /></a> </p>
 
-- 🌱 I’m currently learning **FULLSTACK(JAVA)**
+- 🌱 *Proficient in full-stack development with expertise in Java, Kotlin, Python, and JavaScript, skilled in frameworks like Spring Boot and React, and experienced in leveraging tools such as Docker, Git, and cloud platforms like AWS and Azure to build robust, scalable solutions.*
 
-- 📫 How to reach me **varunsparsh53@gmail.com**
+- 📫 *How to reach me **varunsparsh53@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
