@@ -6,9 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sparshvarun&label=Profile%20views&color=0e75b6&style=flat" alt="sparshvarun" />
+  <img src="https://komarev.com/ghpvc/?username=sparshvarun&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sparshvarun&theme=algolia&row=1&column=6" alt="sparshvarun" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sparshvarun&theme=algolia&row=1&column=6" alt="trophies" />
   </a>
 </p>
 
@@ -16,10 +16,10 @@
 
 ### 🌟 About Me
 - 💻 Proficient in **Full-Stack Development** with expertise in **Java, Python, JavaScript, Kotlin**  
-- ⚙️ Skilled in frameworks like **Spring Boot, React.js, Node.js, Express.js**  
-- ☁️ Hands-on with cloud platforms **AWS** and **Azure**, and tools like **Docker & Git**  
-- 🚀 Experienced in building **robust, scalable web applications** and deploying to production  
-- 📫 Reach me at: **varunsparsh53@gmail.com**
+- ⚙️ Skilled in **Spring Boot, React.js, Node.js, Express.js**  
+- ☁️ Hands-on with **AWS** and **Azure**; experienced with **Docker & Git**  
+- 🚀 Building and shipping production-ready web applications  
+- 📫 Reach me: **varunsparsh53@gmail.com**
 
 ---
 
@@ -33,35 +33,28 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <!-- icons block (same as before) -->
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org/"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshvarun&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sparshvarun top languages" />
-</p>
+### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sparshvarun&show_icons=true&locale=en&theme=tokyonight" alt="sparshvarun github stats" />
+  <a href="https://github.com/sparshvarun?tab=repositories"><img src="https://img.shields.io/github/repo-size/sparshvarun/QuickGPT?style=for-the-badge" alt="repo size"/></a>
+  <a href="https://github.com/sparshvarun"><img src="https://img.shields.io/github/followers/sparshvarun?label=Followers&style=for-the-badge" alt="followers"/></a>
+  <a href="https://github.com/sparshvarun?tab=stars"><img src="https://img.shields.io/github/stars/sparshvarun?style=for-the-badge" alt="stars"/></a>
+  <a href="https://github.com/sparshvarun?tab=repositories"><img src="https://img.shields.io/github/issues/sparshvarun?style=for-the-badge" alt="issues"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshvarun&theme=tokyonight" alt="sparshvarun streak stats" />
-</p>
-
+---
