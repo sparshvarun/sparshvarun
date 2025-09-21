@@ -15,7 +15,7 @@
 ---
 
 ### 🌟 About Me
-- 💻 Proficient in **Full-Stack Development** with expertise in **Java, JavaScript, Python, Kotlin**  
+- 💻 Proficient in **Full-Stack Development** with expertise in **Java, JavaScript, Python**  
 - ⚙️ Skilled in frameworks like **Spring Boot, React.js, Node.js, Express.js**  
 - ☁️ Hands-on with **AWS** and **Azure**, and tools like **Docker & Git**  
 - 🚀 Experienced in building **scalable, production-ready applications**  
